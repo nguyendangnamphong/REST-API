@@ -1,0 +1,24 @@
+# Ignore target directory
+/target/
+
+# Ignore Maven Wrapper files
+.mvn/
+mvnw
+mvnw.cmd
+
+# Ignore IDE specific files
+.vscode/
+*.iml
+.idea/
+
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore other temporary files
+*.sw?
+.#*
+*#
+*~
